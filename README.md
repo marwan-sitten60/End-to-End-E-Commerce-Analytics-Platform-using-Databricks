@@ -81,14 +81,16 @@ It simulates how real-world companies process transactional data starting from a
 ---
 
 ## 📁 Project Structure
+
+```
+.
 ├── notebooks/
 ├── scripts/
 ├── resources/
-│ ├── databricks_architecture.png
-│ └── legacy_architecture.png
+│   ├── databricks_architecture.png
+│   └── legacy_architecture.png
 ├── README.md
-
----
+```
 
 ## 🚀 Future Improvements
 
