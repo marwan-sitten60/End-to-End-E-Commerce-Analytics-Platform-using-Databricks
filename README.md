@@ -81,7 +81,6 @@ It simulates how real-world companies process transactional data starting from a
 ---
 
 ## 📁 Project Structure
-.
 ├── notebooks/
 ├── scripts/
 ├── resources/
