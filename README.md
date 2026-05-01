@@ -1,2 +1,3 @@
-![Lakehouse Architecture](./databricks_architecture.png)
-![Legacy Architecture](./legacy_architecture.png)
+![Lakehouse Architecture](./resources/databricks_architecture.png)
+
+![Legacy Architecture](./resources/legacy_architecture.png)
